@@ -1,0 +1,144 @@
+{
+  "GPL": [
+    {
+      "productName": "Life",
+      "developer": "Themehaus",
+      "detailUrl": "http://themehaus.net/ja/",
+      "licenseUrl": "http://themehaus.net/ja/",
+      "lastUpdate": "-",
+      "memo": "トップページに GPL についての記載あり"
+    },
+    {
+      "productName": "New Standard",
+      "developer": "Themehaus",
+      "detailUrl": "http://themehaus.net/ja/",
+      "licenseUrl": "http://themehaus.net/ja/",
+      "lastUpdate": "-",
+      "memo": "トップページに GPL についての記載あり"
+    },
+    {
+      "productName": "Hello World",
+      "developer": "Themehaus",
+      "detailUrl": "http://themehaus.net/ja/",
+      "licenseUrl": "http://themehaus.net/ja/",
+      "lastUpdate": "-",
+      "memo": "トップページに GPL についての記載あり"
+    },
+    {
+      "productName": "Scenery",
+      "developer": "Themehaus",
+      "detailUrl": "http://themehaus.net/ja/",
+      "licenseUrl": "http://themehaus.net/ja/",
+      "lastUpdate": "-",
+      "memo": "トップページに GPL についての記載あり"
+    },
+    {
+      "productName": "LIQUID",
+      "developer": "LIQUID PRESS",
+      "detailUrl": "https://lqd.jp/wp/theme.html",
+      "licenseUrl": "https://lqd.jp/wp/feature.html",
+      "lastUpdate": "-",
+      "memo": "サイト上のサービスについての利用規約はある。"
+    },
+    {
+      "productName": "LIGHT",
+      "developer": "LIQUID PRESS",
+      "detailUrl": "https://lqd.jp/wp/theme.html",
+      "licenseUrl": "https://lqd.jp/wp/feature.html",
+      "lastUpdate": "-",
+      "memo": "サイト上のサービスについての利用規約はある。"
+    },
+    {
+      "productName": "MAGAZINE",
+      "developer": "LIQUID PRESS",
+      "detailUrl": "https://lqd.jp/wp/theme.html",
+      "licenseUrl": "https://lqd.jp/wp/feature.html",
+      "lastUpdate": "-",
+      "memo": "サイト上のサービスについての利用規約はある。"
+    },
+    {
+      "productName": "MAGAZINE-P",
+      "developer": "LIQUID PRESS",
+      "detailUrl": "https://lqd.jp/wp/theme.html",
+      "licenseUrl": "https://lqd.jp/wp/feature.html",
+      "lastUpdate": "-",
+      "memo": "サイト上のサービスについての利用規約はある。"
+    },
+    {
+      "productName": "INSIGHT",
+      "developer": "LIQUID PRESS",
+      "detailUrl": "https://lqd.jp/wp/theme.html",
+      "licenseUrl": "https://lqd.jp/wp/feature.html",
+      "lastUpdate": "-",
+      "memo": "サイト上のサービスについての利用規約はある。"
+    },
+    {
+      "productName": "SMART",
+      "developer": "LIQUID PRESS",
+      "detailUrl": "https://lqd.jp/wp/theme.html",
+      "licenseUrl": "https://lqd.jp/wp/feature.html",
+      "lastUpdate": "-",
+      "memo": "サイト上のサービスについての利用規約はある。"
+    },
+    {
+      "productName": "PORTFOLIO",
+      "developer": "LIQUID PRESS",
+      "detailUrl": "https://lqd.jp/wp/theme.html",
+      "licenseUrl": "https://lqd.jp/wp/feature.html",
+      "lastUpdate": "-",
+      "memo": "サイト上のサービスについての利用規約はある。"
+    },
+    {
+      "productName": "CORPORATE",
+      "developer": "LIQUID PRESS",
+      "detailUrl": "https://lqd.jp/wp/theme.html",
+      "licenseUrl": "https://lqd.jp/wp/feature.html",
+      "lastUpdate": "-",
+      "memo": "サイト上のサービスについての利用規約はある。"
+    },
+    {
+      "productName": "BizVector",
+      "developer": "株式会社ベクトル",
+      "detailUrl": "http://www.vektor-inc.co.jp/",
+      "licenseUrl": "https://bizvektor.com/about/ ",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "Lightning",
+      "developer": "株式会社ベクトル",
+      "detailUrl": "http://www.vektor-inc.co.jp/",
+      "licenseUrl": "https://bizvektor.com/about/ ",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "Lightning Pro",
+      "developer": "株式会社ベクトル",
+      "detailUrl": "http://www.vektor-inc.co.jp/",
+      "licenseUrl": "https://bizvektor.com/about/ ",
+      "lastUpdate": "-",
+      "memo": ""
+    }
+  ],
+  "SPLIT": [
+    {
+      "productName": "",
+      "developer": "",
+      "detailUrl": "",
+      "licenseUrl": "",
+      "lastUpdate": "-",
+      "memo": ""
+    }
+  ],
+  "OTHERS": [
+    {
+      "productName": "",
+      "developer": "",
+      "detailUrl": "",
+      "licenseUrl": "",
+      "lastUpdate": "-",
+      "memo": ""
+    }
+  ]
+}
