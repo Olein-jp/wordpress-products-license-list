@@ -7,7 +7,7 @@
       "licenseUrl": "http://themehaus.net/ja/",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "トップページに GPL についての記載あり"
+      "memo": ""
     },
     {
       "productName": "New Standard",
@@ -16,7 +16,7 @@
       "licenseUrl": "http://themehaus.net/ja/",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "トップページに GPL についての記載あり"
+      "memo": ""
     },
     {
       "productName": "Hello World",
@@ -25,7 +25,7 @@
       "licenseUrl": "http://themehaus.net/ja/",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "トップページに GPL についての記載あり"
+      "memo": ""
     },
     {
       "productName": "Scenery",
@@ -34,7 +34,7 @@
       "licenseUrl": "http://themehaus.net/ja/",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "トップページに GPL についての記載あり"
+      "memo": ""
     },
     {
       "productName": "LIQUID",
@@ -43,7 +43,7 @@
       "licenseUrl": "https://lqd.jp/wp/feature.html",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "サイト上のサービスについての利用規約はある。"
+      "memo": ""
     },
     {
       "productName": "LIGHT",
@@ -52,7 +52,7 @@
       "licenseUrl": "https://lqd.jp/wp/feature.html",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "サイト上のサービスについての利用規約はある。"
+      "memo": ""
     },
     {
       "productName": "MAGAZINE",
@@ -61,7 +61,7 @@
       "licenseUrl": "https://lqd.jp/wp/feature.html",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "サイト上のサービスについての利用規約はある。"
+      "memo": ""
     },
     {
       "productName": "MAGAZINE-P",
@@ -70,7 +70,7 @@
       "licenseUrl": "https://lqd.jp/wp/feature.html",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "サイト上のサービスについての利用規約はある。"
+      "memo": ""
     },
     {
       "productName": "INSIGHT",
@@ -79,7 +79,7 @@
       "licenseUrl": "https://lqd.jp/wp/feature.html",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "サイト上のサービスについての利用規約はある。"
+      "memo": ""
     },
     {
       "productName": "SMART",
@@ -88,7 +88,7 @@
       "licenseUrl": "https://lqd.jp/wp/feature.html",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "サイト上のサービスについての利用規約はある。"
+      "memo": ""
     },
     {
       "productName": "PORTFOLIO",
@@ -97,7 +97,7 @@
       "licenseUrl": "https://lqd.jp/wp/feature.html",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "サイト上のサービスについての利用規約はある。"
+      "memo": ""
     },
     {
       "productName": "CORPORATE",
@@ -106,7 +106,7 @@
       "licenseUrl": "https://lqd.jp/wp/feature.html",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "サイト上のサービスについての利用規約はある。"
+      "memo": ""
     },
     {
       "productName": "Lightning Pro",
@@ -124,14 +124,122 @@
       "licenseUrl": "",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": "100%GPLの有料テーマ"
+      "memo": "100%GPL有料テーマ"
+    },
+    {
+      "productName": "MTS Car Booking レンタカー予約システム",
+      "developer": "MT Systems",
+      "detailUrl": "http://mtsrcb.mt-systems.jp/",
+      "licenseUrl": "",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "MTS 宿泊予約システム2",
+      "developer": "MT Systems",
+      "detailUrl": "http://mtsab.mt-systems.jp/",
+      "licenseUrl": "",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "MTS Simple Booking シンプル予約システム",
+      "developer": "MT Systems",
+      "detailUrl": "http://mtssb.mt-systems.jp/",
+      "licenseUrl": "",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "WooCommerce WebPay プラグイン",
+      "developer": "株式会社破滅派",
+      "detailUrl": "https://hametuha.co.jp/services/woocommerce-webpay",
+      "licenseUrl": "https://hametuha.co.jp/services/woocommerce-webpay",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "FE Advanced Search",
+      "developer": "株式会社ファーストエレメント",
+      "detailUrl": "https://www.firstelement.co.jp/fe-advanced-search/",
+      "licenseUrl": "https://www.firstelement.co.jp/fe-advanced-search/",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "Simplicity",
+      "developer": "Simplicity",
+      "detailUrl": "https://wp-simplicity.com/",
+      "licenseUrl": "https://wp-simplicity.com/downloads/terms-of-use/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "後継テーマはCocoon"
+    },
+    {
+      "productName": "Cocoon",
+      "developer": "Cocoon",
+      "detailUrl": "https://wp-cocoon.com/",
+      "licenseUrl": "https://wp-cocoon.com/terms-of-use/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "2022/09/07 エックスサーバー社に事業譲渡"
+    },
+    {
+      "productName": "Moving Users Add On",
+      "developer": "Katsushi Kawamori",
+      "detailUrl": "https://shop-jp.riverforest-wp.info/moving-users-add-on/",
+      "licenseUrl": "https://shop-jp.riverforest-wp.info/terms-of-use/",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "SWELL",
+      "developer": "株式会社LOOS",
+      "detailUrl": "https://swell-theme.com/",
+      "licenseUrl": "https://swell-theme.com/terms/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "Arkhe",
+      "developer": "株式会社LOOS",
+      "detailUrl": "https://arkhe-theme.com/",
+      "licenseUrl": "https://arkhe-theme.com/ja/terms/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "Arkhe Blocks Pro",
+      "developer": "株式会社LOOS",
+      "detailUrl": "https://arkhe-theme.com/ja/plugins/arkhe-blocks-pro/",
+      "licenseUrl": "https://arkhe-theme.com/ja/terms/",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "Arkhe Toolkit",
+      "developer": "株式会社LOOS",
+      "detailUrl": "https://arkhe-theme.com/ja/plugins/arkhe-toolkit/",
+      "licenseUrl": "https://arkhe-theme.com/ja/terms/",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
     },
     {
       "productName": "",
       "developer": "",
       "detailUrl": "",
       "licenseUrl": "",
-      "type": "テーマ",
+      "type": "Theme",
       "lastUpdate": "-",
       "memo": ""
     }
