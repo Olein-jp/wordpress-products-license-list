@@ -1,3 +1,4 @@
+import MemoModal from "src/components/MemoModal";
 import TableLink from "src/components/TableLink";
 
 const TableTr = (props) => {
@@ -38,7 +39,9 @@ const TableTr = (props) => {
           </td>
           <td className="table-td text-center">{product.type}</td>
           <td className="table-td text-center">{product.lastUpdate}</td>
-          <td className="table-td">{product.memo}</td>
+          <td className="table-td">
+            <MemoModal memo={product.memo} />
+          </td>
         </tr>
       );
     });
