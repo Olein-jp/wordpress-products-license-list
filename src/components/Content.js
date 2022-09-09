@@ -67,7 +67,7 @@ const Content = ({ props: data }) => {
               categoryList={OTHERS}
               search={search}
               bgColor="bg-white"
-              labelTitle="Other/Checking"
+              labelTitle="Checking"
               labelBgColor="bg-gray-300"
             />
           </tbody>
