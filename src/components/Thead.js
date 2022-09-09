@@ -12,7 +12,7 @@ const Thead = ({ bgcolor }) => {
           開発者
         </th>
         <th scope="col" className="table-th">
-          プロダクト詳細URL
+          詳細URL
         </th>
         <th scope="col" className="table-th">
           ライセンス情報URL

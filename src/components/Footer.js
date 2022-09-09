@@ -6,7 +6,7 @@ const Footer = ({ props: contributors }) => {
   return (
     <>
       <aside className="mt-5">
-        <div className="text-center text-xs text-gray-700 mb-5">
+        <div className="text-center text-xs text-gray-700 p-10">
           <p className="mb-2">
             このサイトに掲載されている情報は有志で確認をしたもので、最新の情報ではない可能性もあります。最終的には必ずご自身でご確認ください。
           </p>
@@ -25,7 +25,7 @@ const Footer = ({ props: contributors }) => {
             へ書き込みをお願いします。
           </p>
         </div>
-        <div className="bg-white p-5 text-gray-500">
+        <div className="bg-white p-15 text-gray-500 p-10">
           <h4 className="text-center font-bold mb-2">貢献者</h4>
           <ul className="flex justify-center">
             {CONTRIBUTORS.map((contributor, index) => {
