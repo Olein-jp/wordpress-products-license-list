@@ -18,6 +18,9 @@ const Thead = ({ bgcolor }) => {
           ライセンス情報URL
         </th>
         <th scope="col" className="table-th">
+          種類
+        </th>
+        <th scope="col" className="table-th">
           最終確認日
         </th>
         <th scope="col" className="table-th">

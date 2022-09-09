@@ -32,6 +32,7 @@ const TableTr = (props) => {
           <td className="table-td">
             <TableLink url={product.licenseUrl} />
           </td>
+          <td className="table-td">{product.type}</td>
           <td className="table-td">{product.lastUpdate}</td>
           <td className="table-td">{product.memo}</td>
         </tr>
