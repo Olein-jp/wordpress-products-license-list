@@ -24,16 +24,20 @@ const TableTr = (props) => {
               {labelTitle}
             </span>
           </td>
-          <td className="table-td font-bold">{product.productName}</td>
-          <td className="table-td font-bold">{product.developer}</td>
+          <td className="table-td font-bold text-center">
+            {product.productName}
+          </td>
+          <td className="table-td font-bold text-center">
+            {product.developer}
+          </td>
           <td className="table-td">
             <TableLink url={product.detailUrl} />
           </td>
           <td className="table-td">
             <TableLink url={product.licenseUrl} />
           </td>
-          <td className="table-td">{product.type}</td>
-          <td className="table-td">{product.lastUpdate}</td>
+          <td className="table-td text-center">{product.type}</td>
+          <td className="table-td text-center">{product.lastUpdate}</td>
           <td className="table-td">{product.memo}</td>
         </tr>
       );
