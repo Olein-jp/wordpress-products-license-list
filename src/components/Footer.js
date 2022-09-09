@@ -11,8 +11,18 @@ const Footer = ({ props: contributors }) => {
             このサイトに掲載されている情報は有志で確認をしたもので、最新の情報ではない可能性もあります。最終的には必ずご自身でご確認ください。
           </p>
           <p>
-            情報の更新・追加・削除についての依頼は、管理する GitHub リポジトリへ
-            Pull&Request を行っていただくか、Issues へ書き込みをお願いします。
+            情報の更新・追加・削除についての依頼は、当サイトを管理する{" "}
+            <Link href="https://github.com/Olein-jp/wordpress-products-license-list">
+              <a
+                target="_blank"
+                className="underline"
+                rel="noopener noreferrer"
+              >
+                GitHub リポジトリ
+              </a>
+            </Link>
+            へ Pull&Request を行っていただくか、Issues
+            へ書き込みをお願いします。
           </p>
         </div>
         <div className="bg-white p-5 text-gray-500">
