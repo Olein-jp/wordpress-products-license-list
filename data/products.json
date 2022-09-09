@@ -235,35 +235,233 @@
       "memo": ""
     },
     {
-      "productName": "",
-      "developer": "",
-      "detailUrl": "",
-      "licenseUrl": "",
-      "type": "Theme",
+      "productName": "Clinics",
+      "developer": "Kunoichi Market",
+      "detailUrl": "https://kunoichiwp.com/product/theme/clinics",
+      "licenseUrl": "https://kunoichiwp.com/product/theme/clinics",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "Futuristic",
+      "developer": "Kunoichi Market",
+      "detailUrl": "https://kunoichiwp.com/product/theme/futuristic",
+      "licenseUrl": "https://kunoichiwp.com/product/theme/futuristic",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "Side Business",
+      "developer": "Kunoichi Market",
+      "detailUrl": "https://kunoichiwp.com/product/theme/side-business",
+      "licenseUrl": "https://kunoichiwp.com/product/theme/side-business",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "クリックポスト CSV for WooCommerce",
+      "developer": "Kunoichi Market",
+      "detailUrl": "https://kunoichiwp.com/",
+      "licenseUrl": "https://kunoichiwp.com/terms-of-service",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "クロネコヤマト B2 CSV Exporter for WooCommerce",
+      "developer": "Kunoichi Market",
+      "detailUrl": "https://kunoichiwp.com/",
+      "licenseUrl": "https://kunoichiwp.com/terms-of-service",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "Kunoichi Updater",
+      "developer": "Kunoichi Market",
+      "detailUrl": "https://kunoichiwp.com/product/plugin/hiden",
+      "licenseUrl": "https://kunoichiwp.com/product/plugin/hiden",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "Redirect For Contact Form 7",
+      "developer": "Kunoichi Market",
+      "detailUrl": "https://kunoichiwp.com/product/plugin/redirect-for-contact-form-7",
+      "licenseUrl": "https://kunoichiwp.com/product/plugin/redirect-for-contact-form-7",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "WP Railways",
+      "developer": "Kunoichi Market",
+      "detailUrl": "https://kunoichiwp.com/product/plugin/wp-railways",
+      "licenseUrl": "https://kunoichiwp.com/product/plugin/wp-railways",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "Principle",
+      "developer": "Principle",
+      "detailUrl": "http://wp-principle.net/",
+      "licenseUrl": "https://wp-principle.net/dl/",
+      "type": "プラグイン",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "WordPressテーマ by Communitycom 各シリーズ",
+      "developer": "communitycom shop",
+      "detailUrl": "https://communitycom-shop.jp/",
+      "licenseUrl": "https://communitycom-shop.jp/shop_faq/paid-themes-0004/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": ""
+    },
+    {
+      "productName": "タイムカード・勤怠管理・入退室管理プラグイン by Communitycom",
+      "developer": "communitycom shop",
+      "detailUrl": "https://communitycom-shop.jp/product/timecard/",
+      "licenseUrl": "https://communitycom-shop.jp/shop_faq/plugin-timecard-0009/",
+      "type": "プラグイン",
       "lastUpdate": "-",
       "memo": ""
     }
   ],
   "SPLIT": [
     {
-      "productName": "",
-      "developer": "",
-      "detailUrl": "",
-      "licenseUrl": "",
+      "productName": "New Standard",
+      "developer": "株式会社ninoya",
+      "detailUrl": "https://newstd.net/",
+      "licenseUrl": "https://newstd.net/agreement",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": ""
+      "memo": "「ライセンス：New Standard本体はスプリットライセンスを適用しています」と記載がある。"
     }
   ],
   "OTHERS": [
     {
-      "productName": "",
-      "developer": "",
-      "detailUrl": "",
-      "licenseUrl": "",
+      "productName": "isotype",
+      "developer": "isotype",
+      "detailUrl": "https://isotype.blue/",
+      "licenseUrl": "https://isotype.blue/%e5%88%a9%e7%94%a8%e8%a6%8f%e7%b4%84/",
       "type": "テーマ",
       "lastUpdate": "-",
-      "memo": ""
+      "memo": "「第6条　(再配布の許可) このプログラム等の再配布、再販売について、販売者の許可がある場合にをこれを許可します。」と記載がある。"
+    },
+    {
+      "productName": "BLOQ",
+      "developer": "Hybrid Theme (mono-lab)",
+      "detailUrl": "https://hybrid-theme.com/theme/bloq/",
+      "licenseUrl": "https://hybrid-theme.com/faq/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "「購入したテーマを複数のサイトで利用する事は可能ですか。→当サイトで販売しているテーマはライセンスにより個別に管理されています。１ライセンスにつき、１つのサイト（WordPress）でご利用頂く事ができますので、複数のサイトで利用したい場合は、「２ライセンス」もしくは「５ライセンス」をご購入ください。」と記載がある。"
+    },
+    {
+      "productName": "N2",
+      "developer": "Hybrid Theme (mono-lab)",
+      "detailUrl": "https://hybrid-theme.com/theme/n2/",
+      "licenseUrl": "https://hybrid-theme.com/faq/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "「購入したテーマを複数のサイトで利用する事は可能ですか。→当サイトで販売しているテーマはライセンスにより個別に管理されています。１ライセンスにつき、１つのサイト（WordPress）でご利用頂く事ができますので、複数のサイトで利用したい場合は、「２ライセンス」もしくは「５ライセンス」をご購入ください。」と記載がある。"
+    },
+    {
+      "productName": "N1",
+      "developer": "Hybrid Theme (mono-lab)",
+      "detailUrl": "https://hybrid-theme.com/theme/n1/",
+      "licenseUrl": "https://hybrid-theme.com/faq/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "「購入したテーマを複数のサイトで利用する事は可能ですか。→当サイトで販売しているテーマはライセンスにより個別に管理されています。１ライセンスにつき、１つのサイト（WordPress）でご利用頂く事ができますので、複数のサイトで利用したい場合は、「２ライセンス」もしくは「５ライセンス」をご購入ください。」と記載がある。"
+    },
+    {
+      "productName": "N-ZERO",
+      "developer": "Hybrid Theme (mono-lab)",
+      "detailUrl": "https://hybrid-theme.com/theme/n-zero/",
+      "licenseUrl": "https://hybrid-theme.com/faq/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "「購入したテーマを複数のサイトで利用する事は可能ですか。→当サイトで販売しているテーマはライセンスにより個別に管理されています。１ライセンスにつき、１つのサイト（WordPress）でご利用頂く事ができますので、複数のサイトで利用したい場合は、「２ライセンス」もしくは「５ライセンス」をご購入ください。」と記載がある。"
+    },
+    {
+      "productName": "monochrome",
+      "developer": "Hybrid Theme (mono-lab)",
+      "detailUrl": "https://hybrid-theme.com/theme/monochrome/",
+      "licenseUrl": "https://hybrid-theme.com/faq/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "「購入したテーマを複数のサイトで利用する事は可能ですか。→当サイトで販売しているテーマはライセンスにより個別に管理されています。１ライセンスにつき、１つのサイト（WordPress）でご利用頂く事ができますので、複数のサイトで利用したい場合は、「２ライセンス」もしくは「５ライセンス」をご購入ください。」と記載がある。"
+    },
+    {
+      "productName": "Piano Black",
+      "developer": "Hybrid Theme (mono-lab)",
+      "detailUrl": "https://hybrid-theme.com/theme/piano-black/",
+      "licenseUrl": "https://hybrid-theme.com/faq/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "「購入したテーマを複数のサイトで利用する事は可能ですか。→当サイトで販売しているテーマはライセンスにより個別に管理されています。１ライセンスにつき、１つのサイト（WordPress）でご利用頂く事ができますので、複数のサイトで利用したい場合は、「２ライセンス」もしくは「５ライセンス」をご購入ください。」と記載がある。"
+    },
+    {
+      "productName": "neutral",
+      "developer": "Hybrid Theme (mono-lab)",
+      "detailUrl": "https://hybrid-theme.com/theme/neutral/",
+      "licenseUrl": "https://hybrid-theme.com/faq/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "「購入したテーマを複数のサイトで利用する事は可能ですか。→当サイトで販売しているテーマはライセンスにより個別に管理されています。１ライセンスにつき、１つのサイト（WordPress）でご利用頂く事ができますので、複数のサイトで利用したい場合は、「２ライセンス」もしくは「５ライセンス」をご購入ください。」と記載がある。"
+    },
+    {
+      "productName": "FLAT",
+      "developer": "Hybrid Theme (mono-lab)",
+      "detailUrl": "https://hybrid-theme.com/theme/flat/",
+      "licenseUrl": "https://hybrid-theme.com/faq/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "「購入したテーマを複数のサイトで利用する事は可能ですか。→当サイトで販売しているテーマはライセンスにより個別に管理されています。１ライセンスにつき、１つのサイト（WordPress）でご利用頂く事ができますので、複数のサイトで利用したい場合は、「２ライセンス」もしくは「５ライセンス」をご購入ください。」と記載がある。"
+    },
+    {
+      "productName": "FLAT black",
+      "developer": "Hybrid Theme (mono-lab)",
+      "detailUrl": "https://hybrid-theme.com/theme/flat-black/",
+      "licenseUrl": "https://hybrid-theme.com/faq/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "「購入したテーマを複数のサイトで利用する事は可能ですか。→当サイトで販売しているテーマはライセンスにより個別に管理されています。１ライセンスにつき、１つのサイト（WordPress）でご利用頂く事ができますので、複数のサイトで利用したい場合は、「２ライセンス」もしくは「５ライセンス」をご購入ください。」と記載がある。"
+    },
+    {
+      "productName": "CUBIC",
+      "developer": "Hybrid Theme (mono-lab)",
+      "detailUrl": "https://hybrid-theme.com/theme/cubic/",
+      "licenseUrl": "https://hybrid-theme.com/faq/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "「購入したテーマを複数のサイトで利用する事は可能ですか。→当サイトで販売しているテーマはライセンスにより個別に管理されています。１ライセンスにつき、１つのサイト（WordPress）でご利用頂く事ができますので、複数のサイトで利用したい場合は、「２ライセンス」もしくは「５ライセンス」をご購入ください。」と記載がある。"
+    },
+    {
+      "productName": "STINGER など",
+      "developer": "ONSPEED.inc",
+      "detailUrl": "http://wp-fun.com/",
+      "licenseUrl": "https://on-store.net/kiyaku/",
+      "type": "テーマ/プラグイン",
+      "lastUpdate": "-",
+      "memo": "「第３条（本商品利用の目的）：1.本商品は，ユーザーが自己のために利用する目的でのみ利用することができ，販売，配布，開発その他の自己利用以外の目的で本商品を利用してはなりません。 2.ユーザーは，自己利用目的に限り，本商品を複数のサイトに利用することができます。」と利用方法を制限する記載がある。"
+    },
+    {
+      "productName": "Minimal Cafe など",
+      "developer": "Minimal WP",
+      "detailUrl": "https://minimalwp.com/",
+      "licenseUrl": "https://minimalwp.com/faq/",
+      "type": "テーマ",
+      "lastUpdate": "-",
+      "memo": "「１度購入したテーマを複数サイトで利用してもいいですか？→テーマ購入者が所有するサイトであれば、1度の購入で複数サイトで自由にご利用いただけます。サブドメイン・別ドメインに関わらず別サイトで使う場合でも、追加購入の必要はありません。テーマ購入者とサイト所有者が異なる場合は、サイト所有者ごとにご購入下さい。」とサイトの所有者かどうかで制限する記載がある。"
     }
   ]
 }
