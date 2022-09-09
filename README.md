@@ -1,34 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# WordPress に関連するプロダクトのライセンス形式をまとめています
 
-## Getting Started
+WordPress で活用することができるテーマやプラグインに定められているライセンスをまとめてウェブサイトで公開しています。
 
-First, run the development server:
+主に日本国内で利用されることが多いプロダクトを集めていますが、海外プロダクトでも利用される割合が大きい場合には掲載を検討します。
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+公開サイト：[https://wordpress-products-license-list.vercel.app/](https://wordpress-products-license-list.vercel.app/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 貢献者
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+以下の有志によって提供されています。
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- [Koji Kuno](https://profiles.wordpress.org/olein/)
+- [Shisei Toda](https://profiles.wordpress.org/st810amaze/)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 情報提供・更新の方法
 
-## Learn More
+以下の方法で、どなたでも情報の提供と更新を申請していただくことができます。
 
-To learn more about Next.js, take a look at the following resources:
+- `data/products.json` ファイルにプル＆リクエストを送る
+- Issues に情報を投稿する
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## お問い合わせ
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+何か不明な点がある場合には[こちら](https://olein-design.com/contact)からご連絡ください。
